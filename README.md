@@ -1,4 +1,4 @@
-# 🚨 **Incident Response Create Alert Rule (PowerShell Suspicious Web Request)** 🚨
+#  **Incident Response: Create Alert Rule (PowerShell Suspicious Web Request)** 
 
 ![image (8)](https://github.com/user-attachments/assets/fc69fb91-2057-4728-9c16-7dcb20c01054)
 
